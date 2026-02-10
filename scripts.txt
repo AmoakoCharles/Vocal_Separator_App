@@ -1,0 +1,10 @@
+pip install Flask==3.0.0
+pip install click==8.1.7
+pip install Werkzeug==3.0.1
+pip install librosa==0.10.1
+pip install soundfile==0.12.1
+pip install numpy==1.24.3
+pip install scipy==1.11.2
+pip install spleeter==2.4.0
+pip install audioread==3.0.1
+pip install ffmpeg-python==0.2.0
