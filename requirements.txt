@@ -1,3 +1,6 @@
+setuptools>=68
+wheel
+pip
 Flask==3.0.0
 click==8.1.7
 Werkzeug==3.0.1
