@@ -2,7 +2,7 @@ setuptools>=68
 wheel
 pip
 Flask==2.2.5
-click<7.2
+click>=8.0
 spleeter==2.4.2
 typer>=0.9.0
 Werkzeug==3.0.1
