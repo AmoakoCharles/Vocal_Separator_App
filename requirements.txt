@@ -1,6 +1,6 @@
 setuptools>=68
 wheel
-pip
+pip==26.0.1
 Flask==2.2.5
 click>=8.0
 spleeter==2.4.2
